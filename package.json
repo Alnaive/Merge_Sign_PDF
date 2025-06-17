@@ -14,8 +14,10 @@
   "dependencies": {
     "@libresign/vue-pdf-editor": "^1.2.7",
     "@vueuse/core": "^11.1.0",
+    "file-saver": "^2.0.5",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.2",
+    "jszip": "^3.10.1",
     "pdf-lib": "^1.17.1",
     "pdf-viewer-vue": "^0.2.7",
     "pdf2image": "^1.2.3",
